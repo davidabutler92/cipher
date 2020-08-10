@@ -11,7 +11,7 @@
 * Make a new directory to clone the repo in.
 * Clone repository @ [Click here](https://github.com/davidabutler92/cipher.git)
 * Open directory (code .) in terminal.
-* To see in gh-pages [Click Here]()  
+* To see in gh-pages [Click Here](https://davidabutler92.github.io/cipher/)  
 * 
 
 ## Known Bugs 
@@ -30,5 +30,5 @@
 #### jQuery 
 #### Markdown
 
-#### Copyright (c) 2020 **_{David Butler}_**
+#### Copyright (c) 2020 **_{David Butler, Drew Lockhart}_**
 #### The software is licensed under the MIT license [Click here](LICENSE.md)
