@@ -9,9 +9,9 @@
 
 ## Setup/Installation Requirements
 * Make a new directory to clone the repo in.
-* Clone repository @ [Click here](https://github.com/davidabutler92/calculator-app.git)
+* Clone repository @ [Click here](https://github.com/davidabutler92/cipher.git)
 * Open directory (code .) in terminal.
-* To see in gh-pages [Click Here](https://davidabutler92.github.io/calculator-app/)  
+* To see in gh-pages [Click Here]()  
 * 
 
 ## Known Bugs 
